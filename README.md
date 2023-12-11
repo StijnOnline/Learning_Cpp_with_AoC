@@ -1,1 +1,3 @@
 # Learning_Cpp_with_AoC
+
+This is the code I wrote while trying to learn c++ using Advent of Code 2022, as this was a learning process there will probably be a lot of bad code but it also hopefully shows my progress. This is only the start of learning c++ but it helped me get somewhat familiar with the language. Next to learn would be how to better approach problems using built-in functions or external libraries.
